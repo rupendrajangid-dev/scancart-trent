@@ -12,7 +12,7 @@ A fast, interactive product showcase & pitch web page for ScanCart for Trent / Z
    git push origin main
    ```
 2. Go to [vercel.com/new](https://vercel.com/new).
-3. Import the `rupendrajangid-dev/scancart-zudio` repository.
+3. Import the `rupendrajangid-dev/scancart-trent` repository.
 4. Leave settings as default (Framework Preset: **Other**, Root Directory: `./`).
 5. Click **Deploy**.
 
